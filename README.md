@@ -1,6 +1,6 @@
 # Arunas Skirius
 
-A rough intro goes here...
+A passionate and language agnostic Junior Software Developer, Makers Academy graduate.
 
 ## Skills
 
@@ -16,9 +16,11 @@ A rough intro goes here...
 - **Humble** - In my humble opinion...
 - **Patient** - So I've been told... Does not apply to slow technology (computer, internet connection, etc.)
 - **Team worker** - Able to work in a team or alone. At Makers Academy, most of my time was spent pair-programming, of which 4 weeks were spent in a team environment where I'd develop software in teams of 4 people.
+- **Communication** - Having pair-programmed for the duration of the Makers Academy course, I have learned to effectively communicate technical terms and ideas to my pair partner, as well as understanding the ideas being communicated to me.
 
 ## Education
 - **Makers Academy** _July - September 2016_ - an intensive 12 week bootcamp where I've learned:
+  - **MVC**
   - **Agile** practices
   - **XP** values
   - **SOLID** principles
@@ -50,3 +52,10 @@ A rough intro goes here...
 - **Travel** - Travelled to a bunch of countries so far, including Sweden, USA, Netherlands, Germany, etc. Looking forward to travel much more and hopefully see the whole world in my lifetime!
 
 - **Sports** - Mostly exercising, staying fit and healthy. Healthy body -> healthy mind. Enough said.
+
+## Contact
+
+- [ArunasSkirius.com](http://arunasskirius.com)
+- [GitHub profile](http://github.com/arukomp)
+- [CodePen](http://codepen.com/arukomp)
+- [LinkedIn](https://www.linkedin.com/in/arunasskirius)
