@@ -1,8 +1,8 @@
 # Arunas Skirius
 
-A passionate and language agnostic Junior Software Developer. I've spent the better part of my life messing around with computers and code, and no matter how hard I'd try to get away from it (music, photography, etc.), I'd always come back to coding. Wrote my first line of code at the age of 13 (Visual Basic), later created some PHP4/MySQL websites, done a lot of computer troubleshooting for myself and my friends and family. Of course I broke stuff loads as well... Curiosity.
+A passionate and language agnostic _Junior Software Developer_. I've spent the better part of my life messing around with computers and code, and no matter how hard I tried to get away from it (with the means of music, photography, etc.), I'd always come back to coding. Wrote my first line of code at the age of 13 (Visual Basic), later created some PHP4/MySQL websites, done a lot of computer troubleshooting for myself and my friends and family. Of course, I broke loads of stuff as well... I blame curiosity.
 
-A few years back I did a BSc Computing course at the University of Liverpool, but had to leave a year later due to financial difficulties. That did not stop me from writing code. After a couple of years saving money, I joined Makers Academy to become an full-fledged Software Developer. Best decision ever.
+A few years back I did a BSc Computing course at the University of Liverpool, but then had to leave a year later due to financial difficulties. That did not stop me from writing code. After a couple of years saving money, I decided to "go pro" and joined the Makers Academy to become an full-fledged Software Developer. Best decision ever.
 
 ## Skills
 
@@ -32,7 +32,7 @@ A few years back I did a BSc Computing course at the University of Liverpool, bu
 
 #### CodePen
 
-- Checkout my CodePen profile for some Front-End stuff I've made - [my CodePen profile](http://codepen.com/arukomp)
+- Checkout my CodePen profile for some Front-End stuff I've made a while back - [my CodePen profile](http://codepen.com/arukomp)
 
 ## Education
 - **Makers Academy** _July - September 2016_ - an intensive 12 week bootcamp where I've learned:
@@ -46,16 +46,7 @@ A few years back I did a BSc Computing course at the University of Liverpool, bu
 
 
 - **University of Liverpool** _September 2011 - June 2012_ - BSc Computing
-  - Java, relational databases (MySQL), UX/UI design, a bit of C/Assembly.
-
-
-<!--
-## Work
-- **Bradwell's Ice Cream** _October 2013 - July 2016_ - Sales Assistant
-  - A customer facing role
-  - Team Work
-  -  -->
-
+  - Java, relational databases (MySQL), UX/UI design, a bit of C and Assembly.
 
 ## Interests
 
