@@ -1,10 +1,13 @@
 # Arunas Skirius
 
-A passionate and language agnostic Junior Software Developer, Makers Academy graduate.
+A passionate and language agnostic Junior Software Developer. I've spent the better part of my life messing around with computers and code, and no matter how hard I'd try to get away from it (music, photography, etc.), I'd always come back to coding. Wrote my first line of code at the age of 13 (Visual Basic), later created some PHP4/MySQL websites, done a lot of computer troubleshooting for myself and my friends and family. Of course I broke stuff loads as well... Curiosity.
+
+A few years back I did a BSc Computing course at the University of Liverpool, but had to leave a year later due to financial difficulties. That did not stop me from writing code. After a couple of years saving money, I joined Makers Academy to become an full-fledged Software Developer. Best decision ever.
 
 ## Skills
 
 #### Software development
+- **Languages/Technologies** - Ruby, Ruby on Rails, Sinatra, HTML, CSS, JavaScript, Objective-C, Swift, Java, PHP, Git, jQuery, AngularJS, NodeJS, ExpressJS, XMPP, and more...
 - **Fast learner** - Able to grasp new concepts and technologies really quickly. During the course at Makers Academy, I chose to do team projects in (at the time) unknown languages to boost my learning ability and explore other technologies/languages.
 - **Debugging** - Able to follow to flow of the program, read the stack trace, hunt down and exterminate any bugs. A keen eye for typos, missing keywords, etc. Although my typing is pretty accurate and the number of typos is very minimal.
 - **Researching** - I found that gazing at the screen doesn't do much, so I've befriended Google and StackOverflow to help me get through the "I don't know" phase. Able to research, read, and make sense of any documentation. If not, "we need to go deeper".
@@ -17,6 +20,19 @@ A passionate and language agnostic Junior Software Developer, Makers Academy gra
 - **Patient** - So I've been told... Does not apply to slow technology (computer, internet connection, etc.)
 - **Team worker** - Able to work in a team or alone. At Makers Academy, most of my time was spent pair-programming, of which 4 weeks were spent in a team environment where I'd develop software in teams of 4 people.
 - **Communication** - Having pair-programmed for the duration of the Makers Academy course, I have learned to effectively communicate technical terms and ideas to my pair partner, as well as understanding the ideas being communicated to me.
+
+## Project Highlights
+
+
+| Name | Description | Team size | Technologies used
+|:---:| --- |:---:| --- |
+| **JabbyChat**<br> [GitHub (iOS)](https://github.com/WhatsApe/ios-client)<br> [GitHub (Web)](https://github.com/WhatsApe/web-client) | A free and very scalable messaging app, which uses the XMPP protocol and ejabberd server as a back-end for fast messaging. Our team collaboratively built both iOS and a Web clients in just 2 weeks. I mostly focused on the iOS client | 4 | XMPP, ejabberd, Swift, JavaScript, HTML, CSS |
+| **Makers BnB**<br> [GitHub](https://github.com/jonnymoore12/Makers-BnB-Challenge)<br> [Live Demo](http://bnb-jesus.herokuapp.com/)| An AirBnB clone developed from scratch in 5 days. My first team based project, which involved learning loads about Git (PR, merging, reverting, etc). Used Waffle.io to help us manage tasks within the team | 4 | Ruby, Sinatra, HTML (erb), CSS, Bootstrap |
+| **Simple Tests**<br> [GitHub](https://github.com/arukomp/simple-tests) | An example project extracted from my own coursework at Makers Academy, with the sole purpose to show how easy it is to create your own basic JavaScript testing framework (Jasmine-like). | 1 | JavaScript, Bootstrap CSS, HTML |
+
+#### CodePen
+
+- Checkout my CodePen profile for some Front-End stuff I've made - [my CodePen profile](http://codepen.com/arukomp)
 
 ## Education
 - **Makers Academy** _July - September 2016_ - an intensive 12 week bootcamp where I've learned:
