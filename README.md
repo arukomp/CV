@@ -30,9 +30,9 @@ A few years back I did a BSc Computing course at the University of Liverpool, bu
 | **Makers BnB**<br> [GitHub](https://github.com/jonnymoore12/Makers-BnB-Challenge)<br> [Live Demo](http://bnb-jesus.herokuapp.com/)| An AirBnB clone developed from scratch in 5 days. My first team based project, which involved learning loads about Git (PR, merging, reverting, etc). Used Waffle.io to help us manage tasks within the team | 4 | Ruby, Sinatra, HTML (erb), CSS, Bootstrap |
 | **Simple Tests**<br> [GitHub](https://github.com/arukomp/simple-tests) | An example project extracted from my own coursework at Makers Academy, with the sole purpose to show how easy it is to create your own basic JavaScript testing framework (Jasmine-like). | 1 | JavaScript, Bootstrap CSS, HTML |
 
-#### CodePen
+<!-- #### CodePen
 
-- Checkout my CodePen profile for some Front-End stuff I've made a while back - [my CodePen profile](http://codepen.com/arukomp)
+- Checkout my CodePen profile for some Front-End stuff I've made a while back - [my CodePen profile](http://codepen.com/arukomp) -->
 
 ## Education
 - **Makers Academy** _July - September 2016_ - an intensive 12 week bootcamp where I've learned:
