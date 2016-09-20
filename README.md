@@ -1,6 +1,6 @@
 # Arunas Skirius
 
-A passionate and language agnostic _Junior Software Developer_. I've spent the better part of my life messing around with computers and code, and no matter how hard I tried to get away from it (with the means of music, photography, etc.), I'd always come back to coding. Wrote my first line of code at the age of 13 (Visual Basic), later created some PHP4/MySQL websites, done a lot of computer troubleshooting for myself and my friends and family. Of course, I broke loads of stuff as well... I blame curiosity.
+A passionate and language agnostic _Junior Software Developer_, advocate for lifelong learning and hard work. I've spent the better part of my life messing around with computers and code, and no matter how hard I tried to get away from it (with the means of music, photography, etc.), I'd always come back to coding. Wrote my first line of code at the age of 13 (Visual Basic), later created some PHP4/MySQL websites, done a lot of computer troubleshooting for myself and my friends and family. Of course, I broke loads of stuff as well... I blame curiosity.
 
 A few years back I did a BSc Computing course at the University of Liverpool, but then had to leave a year later due to financial difficulties. That did not stop me from writing code. After a couple of years saving money, I decided to "go pro" and joined the Makers Academy to become an full-fledged Software Developer. Best decision ever.
 
@@ -27,8 +27,10 @@ A few years back I did a BSc Computing course at the University of Liverpool, bu
 | Name | Description | Team size | Technologies used
 |:---:| --- |:---:| --- |
 | **JabbyChat**<br> [GitHub (iOS)](https://github.com/WhatsApe/ios-client)<br> [GitHub (Web)](https://github.com/WhatsApe/web-client) | A free and very scalable messaging app, which uses the XMPP protocol and ejabberd server as a back-end for fast messaging. Our team collaboratively built both iOS and a Web clients in just 2 weeks. I mostly focused on the iOS client | 4 | XMPP, ejabberd, Swift, JavaScript, HTML, CSS |
-| **Makers BnB**<br> [GitHub](https://github.com/jonnymoore12/Makers-BnB-Challenge)<br> [Live Demo](http://bnb-jesus.herokuapp.com/)| An AirBnB clone developed from scratch in 5 days. My first team based project, which involved learning loads about Git (PR, merging, reverting, etc). Used Waffle.io to help us manage tasks within the team | 4 | Ruby, Sinatra, HTML (erb), CSS, Bootstrap |
+| **Makers BnB**<br> [GitHub](https://github.com/jonnymoore12/Makers-BnB-Challenge)<br> [Live Demo](http://bnb-jesus.herokuapp.com/)| An AirBnB clone developed from scratch in 5 days. My first team based project, which involved learning loads about Git (PR, merging, reverting, etc). Used Waffle.io to help us manage tasks within the team | 4 | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML (erb), CSS, Bootstrap |
+| **Chitter**<br> [GitHub](https://github.com/arukomp/chitter-challenge)<br> [Live Demo](https://aru-chitter.herokuapp.com) | A simple Twitter-like public messaging board written from scratch over the weekend. Fully Test-Driven | 1 | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML (erb), Bootstrap CSS |
 | **Simple Tests**<br> [GitHub](https://github.com/arukomp/simple-tests) | An example project extracted from my own coursework at Makers Academy, with the sole purpose to show how easy it is to create your own basic JavaScript testing framework (Jasmine-like). | 1 | JavaScript, Bootstrap CSS, HTML |
+| ... | and many more - [my GitHub profile](https://github.com/arukomp) | 1 | Various |
 
 <!-- #### CodePen
 
@@ -54,7 +56,7 @@ A few years back I did a BSc Computing course at the University of Liverpool, bu
 
 - **Music** - Attended a private music school between the age 9 and 16, where I learned to play piano and violin. Later self-taught to play guitar (acoustic and electric). I'm confident I can easily learn another instrument if I ever want to.
 
-- **Photography** - Amateur. I do know the basics of photography and I own a basic DSLR (unless I sold it for food money by the time you read this 🙈 ).
+- **Photography** - Amateur. I do know the basics of photography and I own a basic DSLR (unless I sold it for food money by the time you read this CV).
 
 - **Travel** - Travelled to a bunch of countries so far, including Sweden, USA, Netherlands, Germany, etc. Looking forward to travel much more and hopefully see the whole world in my lifetime!
 
@@ -62,7 +64,7 @@ A few years back I did a BSc Computing course at the University of Liverpool, bu
 
 ## Contact
 
-- [ArunasSkirius.com](http://arunasskirius.com)
+- [ArunasSkirius.com](http://arunasskirius.com) (currently in development)
 - [GitHub profile](http://github.com/arukomp)
 - [CodePen](http://codepen.com/arukomp)
 - [LinkedIn](https://www.linkedin.com/in/arunasskirius)
