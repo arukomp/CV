@@ -1,6 +1,6 @@
 # Arunas Skirius
 
-A passionate and language agnostic _Junior Software Developer_, advocate for lifelong learning and hard work. I've spent the better part of my life messing around with computers and code, and even if I'd go exploring different career paths (music, photography, retail), I'd always come back to coding. Wrote my first line of code at the age of 13 (Visual Basic), later created some PHP4/MySQL websites (made about $300 in the process), done a lot of computer troubleshooting for myself, friends and family. Of course, I broke loads of stuff as well... I blame curiosity.
+A passionate and language agnostic _Junior Software Developer_, advocate for lifelong learning and hard work. I've spent the better part of my life messing around with computers and code, and even if I'd go exploring different career paths (music, photography, retail), I'd always come back to coding. Wrote my first line of code at the age of 13 (Visual Basic), later created some PHP4/MySQL websites for about a year (made some money in the process), done a lot of computer troubleshooting for myself, friends and family. Of course, I broke loads of stuff as well... I blame curiosity.
 
 A few years back I did a BSc Computing course at the University of Liverpool, but then had to leave a year later due to financial difficulties. That did not stop me from writing code. After a couple of years saving money, I decided to "go pro" and joined the Makers Academy to become an full-fledged Software Developer. Best decision ever.
 
