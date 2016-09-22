@@ -1,6 +1,6 @@
 # Arunas Skirius
 
-A passionate and language agnostic _Junior Software Developer_, advocate for lifelong learning and hard work. I've spent the better part of my life messing around with computers and code, and no matter how hard I tried to get away from it (with the means of music, photography, etc.), I'd always come back to coding. Wrote my first line of code at the age of 13 (Visual Basic), later created some PHP4/MySQL websites, done a lot of computer troubleshooting for myself and my friends and family. Of course, I broke loads of stuff as well... I blame curiosity.
+A passionate and language agnostic _Junior Software Developer_, advocate for lifelong learning and hard work. I've spent the better part of my life messing around with computers and code, and even if I'd go exploring different career paths (music, photography, retail), I'd always come back to coding. Wrote my first line of code at the age of 13 (Visual Basic), later created some PHP4/MySQL websites (made about $300 in the process), done a lot of computer troubleshooting for myself, friends and family. Of course, I broke loads of stuff as well... I blame curiosity.
 
 A few years back I did a BSc Computing course at the University of Liverpool, but then had to leave a year later due to financial difficulties. That did not stop me from writing code. After a couple of years saving money, I decided to "go pro" and joined the Makers Academy to become an full-fledged Software Developer. Best decision ever.
 
@@ -10,9 +10,9 @@ A few years back I did a BSc Computing course at the University of Liverpool, bu
 - **Languages/Technologies** - Ruby, Ruby on Rails, Sinatra, HTML, CSS, JavaScript, Objective-C, Swift, Java, PHP, Git, jQuery, AngularJS, NodeJS, ExpressJS, XMPP, and more...
 - **Fast learner** - Able to grasp new concepts and technologies really quickly. During the course at Makers Academy, I chose to do team projects in (at the time) unknown languages to boost my learning ability and explore other technologies/languages.
 - **Debugging** - Able to follow to flow of the program, read the stack trace, hunt down and exterminate any bugs. A keen eye for typos, missing keywords, etc. Although my typing is pretty accurate and the number of typos is very minimal.
-- **Researching** - I found that gazing at the screen doesn't do much, so I've befriended Google and StackOverflow to help me get through the "I don't know" phase. Able to research, read, and make sense of any documentation. If not, "we need to go deeper".
+- **Researching** - I found that gazing at the screen doesn't do much, so I've befriended Google and StackOverflow to help me get through the "I don't know" phase. Able to research, read, and make sense of any documentation. If not, I can always experiment in a REPL, "connect the dots" and make sense of how things work.
 - **Quick to adapt** - Switching languages? Switching projects? No problem. I'm quick to adapt to new environments, both in programatic and real-life sense. I've lived in 4 different cities across Europe and written code in around 10 different programming languages.
-- **Problem solving** - there's always a way.
+- **Problem solving** - There's always a way. Pen & paper help me get through the initial phase of "where do I start??", domain modelling, user stories, etc.
 
 #### Personal traits
 - **Passionate** - I love learning, and I love developing software. I am fascinated by all things technology, and I know I will be developing software that will shape the future.
@@ -23,11 +23,11 @@ A few years back I did a BSc Computing course at the University of Liverpool, bu
 
 ## Project Highlights
 
-
 | Name | Description | Team size | Technologies used
 |:---:| --- |:---:| --- |
 | **JabbyChat**<br> [GitHub (iOS)](https://github.com/WhatsApe/ios-client)<br> [GitHub (Web)](https://github.com/WhatsApe/web-client) | A free and very scalable messaging app, which uses the XMPP protocol and ejabberd server as a back-end for fast messaging. Our team collaboratively built both iOS and a Web clients in just 2 weeks. I mostly focused on the iOS client | 4 | XMPP, ejabberd, Swift, JavaScript, HTML, CSS |
 | **Makers BnB**<br> [GitHub](https://github.com/jonnymoore12/Makers-BnB-Challenge)<br> [Live Demo](http://bnb-jesus.herokuapp.com/)| An AirBnB clone developed from scratch in 5 days. My first team based project, which involved learning loads about Git (PR, merging, reverting, etc). Used Waffle.io to help us manage tasks within the team | 4 | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML (erb), CSS, Bootstrap |
+| **Volunteer Matcher**<br> [GitHub](https://github.com/arukomp/volunteer-matcher)<br> [Live Demo](https://makers-volunteer-matcher.herokuapp.com/) | A job board to post and find volunteering opportunities. Our team took a brave step and built it using technologies we did NOT know, and in just 4 days! | 5 | Node.js, Express.js, Mongoose.js, Mocha.js & Zombie.js for TDD |
 | **Chitter**<br> [GitHub](https://github.com/arukomp/chitter-challenge)<br> [Live Demo](https://aru-chitter.herokuapp.com) | A simple Twitter-like public messaging board written from scratch over the weekend. Fully Test-Driven | 1 | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML (erb), Bootstrap CSS |
 | **Simple Tests**<br> [GitHub](https://github.com/arukomp/simple-tests) | An example project extracted from my own coursework at Makers Academy, with the sole purpose to show how easy it is to create your own basic JavaScript testing framework (Jasmine-like). | 1 | JavaScript, Bootstrap CSS, HTML |
 | ... | and many more - [my GitHub profile](https://github.com/arukomp) | 1 | Various |
