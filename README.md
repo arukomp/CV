@@ -1,15 +1,17 @@
 # Arunas Skirius
 > _Currently **open** to any opportunities_
 
-A passionate and language agnostic _Junior Software Developer_, advocate for lifelong learning and hard work. I've spent the better part of my life messing around with computers and code, and even if I'd go exploring different career paths (music, photography, retail), I'd always come back to coding. Wrote my first line of code at the age of 13 (Visual Basic), later created some PHP4/MySQL websites for about a year (made some money in the process), done a lot of computer troubleshooting for myself, friends and family. Of course, I broke loads of stuff as well... I blame curiosity.
+A passionate and language agnostic _Software Developer_, advocate for lifelong learning and hard work. I've spent the better part of my life messing around with computers and code, and even if I'd go exploring different career paths (music, photography, retail), I'd always come back to coding. Wrote my first line of code at the age of 13 (Visual Basic), later created some PHP4/MySQL websites for about a year (made some money in the process), done a lot of computer troubleshooting for myself, friends and family. Of course, I broke loads of stuff as well... I blame curiosity.
 
 A few years back I did a BSc Computing course at the University of Liverpool, but then had to leave a year later due to financial difficulties. That did not stop me from writing code. After a couple of years saving money, I decided to "go pro" and joined the Makers Academy to become an full-fledged Software Developer. Best decision ever.
+
+Just a month later I got a job at a local car leasing company to develop and maintain one of their products, a website using ASP.Net Core, MSSQL and Angular for the front-end. Mind you, I had never laid my eyes on C# before this job, but they had faith in me, and in just a week or two I caught up to speed with the C# language and other tools/frameworks used by fellow developers, while still contributing bug fixes/refactoring on a daily basis from day one. A few weeks in I got to develop full features from the ground up.
 
 ## Skills
 
 #### Software development
-- **Languages/Technologies** - Ruby, Ruby on Rails, Sinatra, HTML, CSS, JavaScript, Objective-C, Swift, Java, PHP, Git, jQuery, AngularJS, NodeJS, ExpressJS, XMPP, and more...
-- **Fast learner** - Able to grasp new concepts and technologies really quickly. During the course at Makers Academy, I chose to do team projects in (at the time) unknown languages to boost my learning ability and explore other technologies/languages.
+- **Languages/Technologies** - C#, ASP.Net Core, Ruby, Ruby on Rails, Sinatra, HTML, CSS, JavaScript, Objective-C, Swift, Java, PHP, Git, jQuery, AngularJS, NodeJS, ExpressJS, XMPP, and more...
+- **Fast learner** - Able to grasp new concepts and technologies really quickly. During the course at Makers Academy, I chose to do team projects in (at the time) unknown languages to boost my learning ability and explore other technologies/languages. Got my first developer job to code in a language I've never touched before (C#).
 - **Debugging** - Able to follow to flow of the program, read the stack trace, hunt down and exterminate any bugs. A keen eye for typos, missing keywords, etc. Although my typing is pretty accurate and the number of typos is very minimal.
 - **Researching** - I found that gazing at the screen doesn't do much, so I've befriended Google and StackOverflow to help me get through the "I don't know" phase. Able to research, read, and make sense of any documentation. If not, I can always experiment in a REPL, "connect the dots" and make sense of how things work.
 - **Quick to adapt** - Switching languages? Switching projects? No problem. I'm quick to adapt to new environments, both in programatic and real-life sense. I've lived in 4 different cities across Europe and written code in around 10 different programming languages.
@@ -19,7 +21,7 @@ A few years back I did a BSc Computing course at the University of Liverpool, bu
 - **Passionate** - I love learning, and I love developing software. I am fascinated by all things technology, and I know I will be developing software that will shape the future.
 - **Humble** - In my humble opinion...
 - **Patient** - So I've been told... Does not apply to slow technology (computer, internet connection, etc.)
-- **Team worker** - Able to work in a team or alone. At Makers Academy, most of my time was spent pair-programming, of which 4 weeks were spent in a team environment where I'd develop software in teams of 4 people.
+- **Team worker** - Able to work in a team or alone. At Makers Academy, most of my time was spent pair-programming, of which 4 weeks were spent in a team environment where I'd develop software in teams of 4 people. On my first job I've worked in a much larger team, where communication was essential to delivering satisfactory results.
 - **Communication** - Having pair-programmed for the duration of the Makers Academy course, I have learned to effectively communicate technical terms and ideas to my pair partner, as well as understanding the ideas being communicated to me.
 
 ## Project Highlights
@@ -32,10 +34,6 @@ A few years back I did a BSc Computing course at the University of Liverpool, bu
 | **Chitter**<br> [GitHub](https://github.com/arukomp/chitter-challenge)<br> [Live Demo](https://aru-chitter.herokuapp.com) | A simple Twitter-like public messaging board written from scratch over the weekend. Fully Test-Driven | 1 | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML (erb), Bootstrap CSS |
 | **Simple Tests**<br> [GitHub](https://github.com/arukomp/simple-tests) | An example project extracted from my own coursework at Makers Academy, with the sole purpose to show how easy it is to create your own basic JavaScript testing framework (Jasmine-like). | 1 | JavaScript, Bootstrap CSS, HTML |
 | ... | and many more - [my GitHub profile](https://github.com/arukomp) | 1 | Various |
-
-<!-- #### CodePen
-
-- Checkout my CodePen profile for some Front-End stuff I've made a while back - [my CodePen profile](http://codepen.com/arukomp) -->
 
 ## Education
 - **Makers Academy** _July - September 2016_ - an intensive 12 week bootcamp where I've learned:
@@ -51,6 +49,14 @@ A few years back I did a BSc Computing course at the University of Liverpool, bu
 - **University of Liverpool** _September 2011 - June 2012_ - BSc Computing
   - Java, relational databases (MySQL), UX/UI design, a bit of C and Assembly.
 
+## Employment
+- **Car Benefit Solutions** _October 2016 - Present_ - Junior Web Developer
+  - Developed a firm grasp of ASP.Net Core, EF Core/NHibernate, ServiceStack, AngularJS, MS SQL, etc...
+  - Building full-stack features for our in-house products
+  - Agile environment
+  - Git version control
+  - Working within a team of 12 people
+
 ## Interests
 
 - **Learning / Reading** - Love reading non-fiction in my spare time, anything to increase my knowledge so I can become better and contribute more to the world.
@@ -59,11 +65,11 @@ A few years back I did a BSc Computing course at the University of Liverpool, bu
 
 - **Photography** - Amateur. I do know the basics of photography and I own a basic DSLR (unless I sold it for food money by the time you read this CV).
 
-- **Travel** - Travelled to a bunch of countries so far, including Sweden, USA, Netherlands, Germany, etc. Looking forward to travel much more and hopefully see the whole world in my lifetime!
+- **Travel** - Travelled to a bunch of countries so far, including Sweden, USA, Netherlands, Germany, Italy, etc. Looking forward to travel much more and hopefully see the whole world in my lifetime!
 
-- **Sports** - Mostly exercising, staying fit and healthy. Healthy body -> healthy mind. Enough said.
+- **Sports** - Mostly exercising at the gym, staying fit and healthy. Healthy body -> healthy mind. Enough said.
 
-## Contact
+## Contact me / Learn more about me
 
 - [ArunasSkirius.com](http://arunasskirius.com) (currently in development)
 - [GitHub profile](http://github.com/arukomp)
